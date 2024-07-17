@@ -119,10 +119,10 @@ const Home = ({addtocart}) => {
                   </div>
                   <div className='detail'>
                     <div className='img_box'>
-                      <img src='image/T1.avif' alt='testmonial'></img>
+                      <img src='image/nft.png' alt='testmonial'></img>
                     </div>
                     <div className='info'>
-                      <h3>stephan robot</h3>
+                      <h3>Admin</h3>
                       <h4>web designer</h4>
                       <p>Duis faucibus enim vitae nunc molestie, nec facilisis arcu pulvinar nullam mattisr nullam mattis.</p>
                     </div>

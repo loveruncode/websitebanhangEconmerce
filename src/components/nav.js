@@ -27,7 +27,7 @@ const Nav = () => {
             <MdLocalShipping />
           </div>
           <div className="info">
-            <p>Free Shipping When Shopping Up to $1.000.000 VND</p>
+            <p>Miễn Phí Giao Hàng Nếu Đơn Hơn $1.000.000 VND</p>
           </div>
         </div>
         <div className="mid_header">
@@ -75,7 +75,7 @@ const Nav = () => {
                   </ul>
               </div>
             <div className="offer">
-                <p>flat 10% over all Laptop</p>
+                <p>Giảm Giá 10% cho tất cả Laptop</p>
             </div>
 
 
